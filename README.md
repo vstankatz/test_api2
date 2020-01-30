@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Helpful links:
+https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api
